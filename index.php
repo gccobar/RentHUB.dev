@@ -39,7 +39,7 @@
   <section class="py-5 text-center container">
     <div class="row py-lg-5">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">RENTHUB APARTMENT</h1>
+        <h1>RENTHUB v.2 APARTMENT</h1>
         <br>
         <p class="lead text-body-secondary">Experience luxury living in this spacious apartment with 5 bedrooms, including a lavish master bedroom complete with its own private ensuite. Enjoy the convenience of two additional well-appointed restrooms for your family and guests. Make this your dream home and embrace the comfort and elegance it offers! </p>
         <p>
